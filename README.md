@@ -68,8 +68,5 @@ DigiPlan adalah aplikasi seluler sebagai asisten akademik. Fitur utama: sinkroni
 | 5 | Nur Wahyu Muhtiin Haniv | 4525210078 |
 | 6 | Rangga Prataya Setiono Putro | 4525210131 |
 
-## 11. Persetujuan Pemangku Kepentingan
-| Peran | Nama | Tanda tangan |
-|---|---|---|
-| Ketua Kelompok 2 (EdTech) | ……… | ……… |
-| Mentor | ……… | ……… |
+## 11. LINK ERD BY GDRIVE 
+[ERD Digiplan](https://drive.google.com/file/d/1eh9J8d0jQ2jOiSbpdC-Ewr1v2XvvXRc4/view?usp=sharing)
