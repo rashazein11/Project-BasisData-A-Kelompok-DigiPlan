@@ -47,18 +47,12 @@ DigiPlan adalah aplikasi seluler sebagai asisten akademik. Fitur utama: sinkroni
 - **Keandalan:** notifikasi tetap terkirim walau aplikasi tidak dibuka.
 - **Skalabilitas:** mendukung banyak pengguna dan banyak LMS.
 
-## 8. Jadwal dan Timeline
-| Tahap | Waktu |
-|---|---|
-| Mentoring (6 sesi) | 13–23 April 2026 |
-| Presentasi dan pameran poster | 25 April 2026 |
-
-## 9. Risiko dan Asumsi
+## 8. Risiko dan Asumsi
 **Risiko:** LMS institusi tidak menyediakan akses data otomatis (API); data LMS tidak seragam antar kampus/sekolah; pengguna merasa notifikasi terlalu banyak.
 
 **Asumsi:** pengguna punya akun LMS aktif dan koneksi internet; pengguna mengisi jenjang pendidikan saat registrasi.
 
-## 10. Anggota Kelompok
+## 9. Anggota Kelompok
 | No | Nama | NPM |
 |---|---|---|
 | 1 | Irvan Indra Mustofa | 4525210107 |
@@ -68,5 +62,5 @@ DigiPlan adalah aplikasi seluler sebagai asisten akademik. Fitur utama: sinkroni
 | 5 | Nur Wahyu Muhtiin Haniv | 4525210078 |
 | 6 | Rangga Prataya Setiono Putro | 4525210131 |
 
-## 11. LINK ERD BY GDRIVE 
+## 10. LINK ERD BY GDRIVE 
 [ERD Digiplan](https://drive.google.com/file/d/1eh9J8d0jQ2jOiSbpdC-Ewr1v2XvvXRc4/view?usp=sharing)
